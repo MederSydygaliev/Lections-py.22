@@ -36,3 +36,6 @@ git add - после создания и изменения файла, то п�
   3.git push origin main
   //when repo already exist//
   
+  
+  git pull origin main - for update changed files
+  
