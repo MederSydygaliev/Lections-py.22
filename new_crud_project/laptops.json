@@ -1,0 +1,6 @@
+[{"id": 1, "Brand": "Lenovo", "Model": "IdeaPad 3", "Year_of_release": 2021, "Description": "AMD Ryzen 5 5500U, 8GB RAM", "price": 1200.0},
+ {"id": 2, "Brand": "Apple", "Model": "MacBook Air", "Year_of_release": 2022, "Description": "M2 chip, 8GB RAM", "price": 1164.0}, 
+ {"id": 3, "Brand": "Asus", "Model": "E410", "Year_of_release": 2020, "Description": "Celeron N4020 4GB, 64GB", "price": 156.45}, 
+ {"id": 4, "Brand": "Acer", "Model": "Aspire 5 A515", "Year_of_release": 2018, "Description": "Intel Core i3-1115G4, 4GB", "price": 290.99}, 
+ {"id": 5, "Brand": "HP", "Model": "Pavilion 15", "Year_of_release": 2021, "Description": "Intel Core i7-1165G7, 16 GB RAM", "price": 799.0}, 
+ {"id": 6, "Brand": "Sony", "Model": "VIO", "Year_of_release": 2008, "Description": "Intel i3 1230, 4GB RAM", "price": 102.76}]
